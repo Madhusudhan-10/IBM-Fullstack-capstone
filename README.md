@@ -23,13 +23,22 @@ It focuses on applying full-stack development concepts in a practical way.
 - Understanding real-world development workflows
 
 ## Tech Stack
-- Python
-- Flask
+
+**Frontend**
+- React (Create React App)
 - JavaScript
 - HTML
 - CSS
-- SQL
 
+**Backend**
+- Django (Python)
+
+**Database**
+- SQLite (development database)
+
+**Tools**
+- Git & GitHub
+- npm
 
 ## Status
 Completed (can be improved further)
